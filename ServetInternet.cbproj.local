@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.732,E:\NEW_PROGECT\INTERNET\SERVIS_WIN_INTERNET\Main.h=E:\NEW_PROGECT\INTERNET\SERVIS_WIN_INTERNET\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.533,=C:\Users\GENA-T\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.176,=E:\NEW_PROGECT\INTERNET\SERVIS_WIN_INTERNET\LiteModul.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.148,E:\NEW_PROGECT\INTERNET\SERVIS_WIN_INTERNET\ServetInternet.cbproj=E:\NEW_PROGECT\INTERNET\SERVIS_WIN_INTERNET\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.829,E:\NEW_PROGECT\INTERNET\SERVIS_WIN_INTERNET\Project1PCH1.h=C:\Users\GENA-T\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.004,E:\NEW_PROGECT\INTERNET\SERVIS_WIN_INTERNET\Project1.cbproj=C:\Users\GENA-T\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.306,=E:\NEW_PROGECT\INTERNET\SERVIS_WIN_INTERNET\ModulTCP.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.127,E:\NEW_PROGECT\INTERNET\SERVIS_WIN_INTERNET\ServetInternetPCH1.h=E:\NEW_PROGECT\INTERNET\SERVIS_WIN_INTERNET\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.732,E:\NEW_PROGECT\INTERNET\SERVIS_WIN_INTERNET\Main.dfm=E:\NEW_PROGECT\INTERNET\SERVIS_WIN_INTERNET\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.813,E:\NEW_PROGECT\INTERNET\SERVIS_WIN_INTERNET\Unit1.dfm=C:\Users\GENA-T\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.568,=C:\Users\GENA-T\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.732,E:\NEW_PROGECT\INTERNET\SERVIS_WIN_INTERNET\Main.cpp=E:\NEW_PROGECT\INTERNET\SERVIS_WIN_INTERNET\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.813,E:\NEW_PROGECT\INTERNET\SERVIS_WIN_INTERNET\Unit1.cpp=C:\Users\GENA-T\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.011,=E:\NEW_PROGECT\INTERNET\SERVIS_WIN_INTERNET\Internet.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.047,=D:\NEW_PROGECT\INTERNET\SERVIS_WIN_INTERNET\Obgect.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.813,E:\NEW_PROGECT\INTERNET\SERVIS_WIN_INTERNET\Unit1.h=C:\Users\GENA-T\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.860,E:\NEW_PROGECT\INTERNET\SERVIS_WIN_INTERNET\Internet.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.711,=E:\NEW_PROGECT\INTERNET\SERVIS_WIN_INTERNET\Internet.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="ServetInternetPCH1.h"/>
+    <File Path="ServetInternet.cpp"/>
+    <File Path="Main.cpp"/>
+    <File Path="Main.cpp"/>
+    <File Path="Main.dfm"/>
+    <File Path="Main.h"/>
+    <File Path="ModulTCP.cpp"/>
+    <File Path="ModulTCP.cpp"/>
+    <File Path="ModulTCP.dfm"/>
+    <File Path="ModulTCP.h"/>
+    <File Path="LiteModul.cpp"/>
+    <File Path="LiteModul.cpp"/>
+    <File Path="LiteModul.dfm"/>
+    <File Path="LiteModul.h"/>
+    <File Path="Internet.cpp"/>
+    <File Path="Internet.cpp"/>
+    <File Path="Internet.dfm"/>
+    <File Path="Internet.h"/>
+    <File Path="Obgect.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
